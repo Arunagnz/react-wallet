@@ -1,4 +1,4 @@
-# Express API Starter
+# React Wallet
 
 Includes API Server utilities:
 
