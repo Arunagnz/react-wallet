@@ -1,0 +1,11 @@
+# ignoring client as it has been build and moved to public dir
+client/
+
+# node package installation will happen inside container
+node_modules/
+
+# non prod packages and files
+test/
+.git/
+*.md
+LICENSE
