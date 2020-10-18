@@ -4,6 +4,12 @@ client/
 # node package installation will happen inside container
 node_modules/
 
+# build data
+Dockerfile
+docker-compose.yml
+.gitignore
+.eslintrc.js
+
 # non prod packages and files
 test/
 .git/
